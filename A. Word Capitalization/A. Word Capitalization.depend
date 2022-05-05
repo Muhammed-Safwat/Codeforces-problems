@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646825144 source:g:\code froces problems\a. word capitalization\main.cpp
+	<iostream>
+	<cctype>
+
